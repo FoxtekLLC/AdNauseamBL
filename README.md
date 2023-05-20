@@ -2,7 +2,7 @@
 
 This repository is up-to-date as of **2023-05-20**
 
-⚠️ **NOTICE:** ⚠️
+⚠️ **NOTICE:** ⚠️ \
 This project is in no way, shape, or form related to the [AdNauseam](https://adnauseam.io) project, team, and/or browser extension.
 
 ## Purpose
@@ -17,18 +17,17 @@ that a gracious mega-corporation[^1][^2][^3] has unfavourably allowed to be regi
 
 Despite this blocklist mainly existing to block file extension based TLDs, exceptions are granted to select TLDs. Below is a list of TLDs excluded from this list.
 
-|:---:|:---:|
 |**TLD**|**Exemption Reason**|
-|:---:|:---|
+|:---:|:---:|
 |**.rs**|Primarily used for [rust-lang](https://rust-lang.org/) and [cargo](https://cargo.io/) projects|
 |**.sh**|Primarily used for diskless install scripts, typically in Shell Script[^4]|
 
 ---
 
-[^1] [XDA-Developers: Google's new .zip and .mov domains are a security incident waiting to happen](https://www.xda-developers.com/google-zip-mov-domains-security/)
+[^1]: [XDA-Developers: Google's new .zip and .mov domains are a security incident waiting to happen](https://www.xda-developers.com/google-zip-mov-domains-security/)
 
-[^2] [ArsTechnica: Google pushes .zip and .mov domains onto the Internet, and the Internet pushes back](https://arstechnica.com/information-technology/2023/05/critics-say-googles-new-zip-and-mov-domains-will-be-a-boon-to-scammers/)
+[^2]: [ArsTechnica: Google pushes .zip and .mov domains onto the Internet, and the Internet pushes back](https://arstechnica.com/information-technology/2023/05/critics-say-googles-new-zip-and-mov-domains-will-be-a-boon-to-scammers/)
 
-[^3] [TechRadar: Some of Google's new domain names could pose a serious security risk](https://www.techradar.com/news/want-a-new-google-zip-domain-it-could-be-a-serious-security-risk)
+[^3]: [TechRadar: Some of Google's new domain names could pose a serious security risk](https://www.techradar.com/news/want-a-new-google-zip-domain-it-could-be-a-serious-security-risk)
 
-[^4] Shell Script — A scripting language typically used on UNIX/UNIX-like systems such as Linux, macOS, and BSD systems.
+[^4]: Shell Script — A scripting language typically used on UNIX/UNIX-like systems such as Linux, macOS, and BSD systems.
