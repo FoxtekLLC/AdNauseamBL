@@ -1,17 +1,17 @@
 # AdNauseam Block List
 
-This repository is up-to-date as of **2023-05-20**
-
 ⚠️ **NOTICE:** ⚠️ \
 This project is in no way, shape, or form related to the [AdNauseam](https://adnauseam.io) project, team, and/or browser extension.
 
+This repository is up-to-date as of **2023-05-21**
+
 ## Purpose
 
-This repository, AdNauseamBL, serves to be yet another source of DNS-level (or simple `/etc/hosts` file) blocking of domains/TLDs/IPs. \
-*If you would like to convert this list into a hosts-file format, then please submit a pull request with the conversion and it may be merged!*
-
+This repository, AdNauseamBL, serves to be yet another source of DNS-level (or simple `/etc/hosts` file) blocking of domains/TLDs/IPs.
 As of this moment, this repository serves to only provide a block file to block domains using generic TLDs (gTLDs) that are based on file extentions
 that a gracious mega-corporation[^1][^2][^3] has unfavourably allowed to be registered as internet domains.
+
+*If you would like to convert this list into a hosts-file format, then please submit a pull request with the conversion and it may be merged!*
 
 ## Exceptions
 
