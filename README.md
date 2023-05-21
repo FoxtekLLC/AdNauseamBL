@@ -17,10 +17,13 @@ that a gracious mega-corporation[^1][^2][^3] has unfavourably allowed to be regi
 
 Despite this blocklist mainly existing to block file extension based TLDs, exceptions are granted to select TLDs. Below is a list of TLDs excluded from this list.
 
-|**TLD**|**Exemption Reason**|
+|**TLD**|**Reason**|
 |:---:|:---:|
-|**.rs**|Primarily used for [rust-lang](https://rust-lang.org/) and [cargo](https://cargo.io/) projects|
-|**.sh**|Primarily used for diskless install scripts, typically in Shell Script[^4]|
+|**.rs**|Primarily used for [rust-lang](https://rust-lang.org/) and [cargo](https://cargo.io/) projects.|
+|**.sh**|Primarily used for diskless install scripts, typically in Shell Script.[^4]|
+|**.com**|One of, and if not, the most widely used TLD in the world right next to **.net** and **.org**.|
+|**.dev**|Legitimate uses include, but not limited to, developer portfolio and project websites.|
+|**.app**|Mostly used for software websites.|
 
 ---
 
